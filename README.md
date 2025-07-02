@@ -1,4 +1,4 @@
-html lang="id">
+
 <head>
   <meta charset="UTF-8">
   <title>Pesan Romantis</title>
@@ -90,4 +90,3 @@ html lang="id">
   </div>
 
 </body>
-</html>
